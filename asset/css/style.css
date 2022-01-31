@@ -10,14 +10,20 @@ body {
 }
 
 .sfondo-header{
-    height: 80px;
+    height: 100px;
     width: 100%;
     background-image: url(../img/pattern.png);
     background-color: #4ea0ff;
-    background-size: 15%;
+    background-size: 20%;
     margin-bottom: 20px;
 }
 
+.logo {
+    width: 200px;
+    height: 200px;
+    margin-left: 20%;
+    margin-top: -40px;
+}
 
 main, footer {
     width: 60%;
