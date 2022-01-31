@@ -15,4 +15,59 @@ body {
     background-image: url(../img/pattern.png);
     background-color: #4ea0ff;
     background-size: 15%;
+    margin-bottom: 20px;
+}
+
+
+main {
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.grigio {
+    color: #808080;
+}
+
+.azzurro {
+    color: #2daee6;
+}
+
+.data {
+    color: #808080;
+    margin-bottom: 20px;
+    font-size: 0.8rem;
+}
+
+.descrizione {
+    font-size: 0.7rem;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+ul {
+    margin: 20px 10px;
+}
+
+table {
+    width: 100%;
+    
+}
+
+tr {
+    width: 33%;
+}
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.backgroundazzurro {
+    background-color: #b1e5f2;
 }
