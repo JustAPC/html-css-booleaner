@@ -34,10 +34,6 @@ h1 {
     font-size: 2em;
 }
 
-.grigio {
-    color: #808080;
-}
-
 .azzurro {
     color: #2daee6;
 }
@@ -60,12 +56,16 @@ ul {
     margin: 20px 10px;
 }
 
+table {
+    border-spacing: 0;
+}
+
 thead {
     background-color: #20a9e5;
     color: white;
 }
 
-.backgroundazzurro {
+.background-azzurro {
     background-color: #b1e5f2;
 }
 
@@ -88,7 +88,7 @@ h3 {
     height: 200px;
     width: 200px;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: contain;    
 }
 
 .grafico {
@@ -103,4 +103,6 @@ h3 {
 h2 {
     color: white;
     font-size: 1.3rem;
+    padding-left: 10px;
+    padding-top: 10px;
 }
